@@ -41,7 +41,7 @@ This project shows how to **fine-tune**, **pretrain**, and **deploy** open-sourc
 | Type                    | Colab     |
 |-------------------------|-----------|
 | Classification Chat     | [https://colab.research.google.com/drive/1mxOpr2dI5uq4CROJqZMVE_KwlNeVaYFZ?usp=sharing](#)|
-| Conversational Chat     | [Colab](#)|
+| Conversational Chat     | [https://colab.research.google.com/drive/17wnR91ddyu3bm1ykfL6idX2s2DgX4ryB?usp=sharing](#)|
 | Long Context (TinyLlama)| [Colab](#)|
 | Multi-dataset Finetune  | [Colab](#)|
 
