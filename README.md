@@ -52,7 +52,7 @@ This project shows how to **fine-tune**, **pretrain**, and **deploy** open-sourc
 | Method | Colab     | Video     |
 |--------|-----------|-----------|
 | ORPO   | [https://colab.research.google.com/drive/1o_RFxervMZvI9KP1ksXDjKucHufb_iMM?usp=sharing](#)| [Video](#)|
-| DPO    | [Colab](#)| [Video](#)|
+| DPO    | [https://colab.research.google.com/drive/13oQHiC9YAK2WtcH8AB4YXXJ-r10lQvTJ?usp=sharing](#)| [Video](#)|
 
 ---
 
