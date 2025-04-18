@@ -32,7 +32,7 @@ This project shows how to **fine-tune**, **pretrain**, and **deploy** open-sourc
 
 | Task                | Colab     | Video     |
 |---------------------|-----------|-----------|
-| New Language/Data   | [Colab](#)| [Video](#)|
+| New Language/Data   | [https://colab.research.google.com/drive/1Iwa18DqUa9sCTZysgEx56OnfBuCe4Qvc?usp=sharing](#)| [Video](#)|
 
 ---
 
