@@ -43,7 +43,7 @@ This project shows how to **fine-tune**, **pretrain**, and **deploy** open-sourc
 | Classification Chat     | [https://colab.research.google.com/drive/1mxOpr2dI5uq4CROJqZMVE_KwlNeVaYFZ?usp=sharing](#)|
 | Conversational Chat     | [https://colab.research.google.com/drive/17wnR91ddyu3bm1ykfL6idX2s2DgX4ryB?usp=sharing](#)|
 | Long Context (TinyLlama)| [https://colab.research.google.com/drive/1jPJSR6x_LNhEto6D6KCZdwb9F6otXjy-?usp=sharing](#)|
-| Multi-dataset Finetune  | [Colab](#)|
+| Multi-dataset Finetune  | [https://colab.research.google.com/drive/1wivnUsvpW1PfJhdA8Z6JJbd32grzNTuy?usp=sharing](#)|
 
 ---
 
