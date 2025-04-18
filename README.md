@@ -21,7 +21,7 @@ This project shows how to **fine-tune**, **pretrain**, and **deploy** open-sourc
 
 | Model              | Task            | Colab     | Video     |
 |--------------------|-----------------|-----------|-----------|
-| LLaMA 3.1 (8B)     | Coding Assistant| [Colab](#)| [Video](#)|
+| LLaMA 3.1 (8B)     | Coding Assistant| [https://colab.research.google.com/drive/1qNjrvdEJc0INlEG2u5oeHzkTGg6sX_Qx?usp=sharing](#)| [Video](#)|
 | Mistral NeMo (12B) | Chatbot         | [Colab](#)| [Video](#)|
 | Gemma 2 (9B)       | Conversation    | [Colab](#)| [Video](#)|
 | Phi-3              | Reasoning       | [Colab](#)| [Video](#)|
