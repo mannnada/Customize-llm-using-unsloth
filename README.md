@@ -22,9 +22,9 @@ This project shows how to **fine-tune**, **pretrain**, and **deploy** open-sourc
 | Model              | Task            | Colab     | Video     |
 |--------------------|-----------------|-----------|-----------|
 | LLaMA 3.1 (8B)     | Coding Assistant| https://colab.research.google.com/drive/1qNjrvdEJc0INlEG2u5oeHzkTGg6sX_Qx?usp=sharing| [https://youtu.be/QZpBR9Jqe3Y](#)|
-| Mistral NeMo (12B) | Chatbot         | https://colab.research.google.com/drive/1PEYGLGUGG2K0q7en__rgBZ90RW-ETHC_?usp=sharing| [Video](#)|
-| Gemma 2 (9B)       | Conversation    | https://colab.research.google.com/drive/1JfA2oa9HuK6HKMqWtnupBY53eqWYHuXd?usp=sharing| [Video](#)|
-| Phi-3              | Reasoning       | https://colab.research.google.com/drive/1Iwa18DqUa9sCTZysgEx56OnfBuCe4Qvc?usp=sharing| [Video](#)|
+| Mistral NeMo (12B) | Chatbot         | https://colab.research.google.com/drive/1PEYGLGUGG2K0q7en__rgBZ90RW-ETHC_?usp=sharing| [https://youtu.be/QZpBR9Jqe3Y](#)|
+| Gemma 2 (9B)       | Conversation    | https://colab.research.google.com/drive/1JfA2oa9HuK6HKMqWtnupBY53eqWYHuXd?usp=sharing| [https://youtu.be/QZpBR9Jqe3Y](#)|
+| Phi-3              | Reasoning       | https://colab.research.google.com/drive/1Iwa18DqUa9sCTZysgEx56OnfBuCe4Qvc?usp=sharing| [https://youtu.be/QZpBR9Jqe3Y](#)|
 
 ---
 
@@ -32,7 +32,7 @@ This project shows how to **fine-tune**, **pretrain**, and **deploy** open-sourc
 
 | Task                | Colab     | Video     |
 |---------------------|-----------|-----------|
-| New Language/Data   | https://colab.research.google.com/drive/1Iwa18DqUa9sCTZysgEx56OnfBuCe4Qvc?usp=sharing| [Video](#)|
+| New Language/Data   | https://colab.research.google.com/drive/1Iwa18DqUa9sCTZysgEx56OnfBuCe4Qvc?usp=sharing| [https://youtu.be/QZpBR9Jqe3Y](#)|
 
 ---
 
@@ -51,8 +51,8 @@ This project shows how to **fine-tune**, **pretrain**, and **deploy** open-sourc
 
 | Method | Colab     | Video     |
 |--------|-----------|-----------|
-| ORPO   | https://colab.research.google.com/drive/1o_RFxervMZvI9KP1ksXDjKucHufb_iMM?usp=sharing| [Video](#)|
-| DPO    | https://colab.research.google.com/drive/13oQHiC9YAK2WtcH8AB4YXXJ-r10lQvTJ?usp=sharing| [Video](#)|
+| ORPO   | https://colab.research.google.com/drive/1o_RFxervMZvI9KP1ksXDjKucHufb_iMM?usp=sharing| [https://youtu.be/QZpBR9Jqe3Y](#)|
+| DPO    | https://colab.research.google.com/drive/13oQHiC9YAK2WtcH8AB4YXXJ-r10lQvTJ?usp=sharing| [https://youtu.be/QZpBR9Jqe3Y](#)|
 
 ---
 
@@ -60,7 +60,7 @@ This project shows how to **fine-tune**, **pretrain**, and **deploy** open-sourc
 
 | Colab     | Video     |
 |-----------|-----------|
-| https://colab.research.google.com/drive/1v4Xh7yvafVrvv5iyqiYHhHXauO0LTjp8?usp=sharing| [Video](#)|
+| https://colab.research.google.com/drive/1v4Xh7yvafVrvv5iyqiYHhHXauO0LTjp8?usp=sharing| [https://youtu.be/QZpBR9Jqe3Y](#)|
 
 ---
 
@@ -68,7 +68,7 @@ This project shows how to **fine-tune**, **pretrain**, and **deploy** open-sourc
 
 | Colab     | Video     |
 |-----------|-----------|
-| https://colab.research.google.com/drive/1M71dvc-TfE8O2s0V038qjdQ-zfEiQ6K9?usp=sharing| [Video](#)|
+| https://colab.research.google.com/drive/1M71dvc-TfE8O2s0V038qjdQ-zfEiQ6K9?usp=sharing| [https://youtu.be/QZpBR9Jqe3Y](#)|
 
 ---
 
@@ -76,7 +76,7 @@ This project shows how to **fine-tune**, **pretrain**, and **deploy** open-sourc
 
 | Colab     | Video     |
 |-----------|-----------|
-| https://colab.research.google.com/drive/1C5XhbgBZS7fXsbADELhot1t_uk0bGOMl?usp=sharing| [Video](#)|
+| https://colab.research.google.com/drive/1C5XhbgBZS7fXsbADELhot1t_uk0bGOMl?usp=sharing| [https://youtu.be/QZpBR9Jqe3Y](#)|
 
 ---
 
