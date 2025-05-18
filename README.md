@@ -76,7 +76,7 @@ This project shows how to **fine-tune**, **pretrain**, and **deploy** open-sourc
 
 | Colab     | Video     |
 |-----------|-----------|
-| https://colab.research.google.com/drive/1C5XhbgBZS7fXsbADELhot1t_uk0bGOMl?usp=sharing| [https://youtu.be/IWTH0s75x7c?si=TRs-32ZaaLwlxBb6](#)|
+| https://colab.research.google.com/drive/1C5XhbgBZS7fXsbADELhot1t_uk0bGOMl?usp=sharing| https://youtu.be/IWTH0s75x7c?si=TRs-32ZaaLwlxBb6
 
 ---
 
